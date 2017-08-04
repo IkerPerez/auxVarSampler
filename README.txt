@@ -11,6 +11,8 @@ Perez, I., Hodge, D. and Kypraios, T. – Auxiliary variables for Bayesian inferen
 
 Within the "Files" folder, we include 500 sample simulations from a bottleneck network as introduced in Example 2 in the paper. Real data can replace these files, shold the structure remain the same.
 
+Output csv files are MCMC chains as summarized within Example 2 in the aforementioned paper; similar outputs should be achievable by user by running the current version of the code as it is.
+
 
 ### JAVA CODE ###
 
